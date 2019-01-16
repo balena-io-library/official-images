@@ -1,12 +1,12 @@
 # maintainer: Trong Nghia Nguyen - resin.io <james@resin.io>
 
-buster: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/buster
+buster: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/buster
 
-jessie: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/jessie
-latest: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/jessie
+jessie: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/jessie
+latest: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/jessie
 
-sid: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/sid
+sid: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/sid
 
-stretch: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/stretch
+stretch: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/stretch
 
-wheezy: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/armv5e/wheezy
+wheezy: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/armv5e/wheezy

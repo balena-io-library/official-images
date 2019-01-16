@@ -1,7 +1,7 @@
 # maintainer: Trong Nghia Nguyen - resin.io <james@resin.io>
-artful: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/artful
-bionic: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/bionic
-latest: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/bionic
-cosmic: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/cosmic
-trusty: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/trusty
-xenial: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/ubuntu/armv7hf/xenial
+artful: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/artful
+bionic: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/bionic
+latest: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/bionic
+cosmic: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/cosmic
+trusty: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/trusty
+xenial: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/ubuntu/armv7hf/xenial

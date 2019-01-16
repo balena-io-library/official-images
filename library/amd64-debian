@@ -1,12 +1,12 @@
 # maintainer: Trong Nghia Nguyen - resin.io <james@resin.io>
 
-buster: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/buster
+buster: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/buster
 
-jessie: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/jessie
-latest: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/jessie
+jessie: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/jessie
+latest: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/jessie
 
-sid: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/sid
+sid: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/sid
 
-stretch: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/stretch
+stretch: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/stretch
 
-wheezy: git://github.com/resin-io-library/base-images@7a51a9b7b10dedfd338f2a19b50c1e03e86680b3 resin-base-images/debian/amd64/wheezy
+wheezy: git://github.com/resin-io-library/base-images@ffbedd8e0c62e3c019c1dd4c010c7e12e535121a resin-base-images/debian/amd64/wheezy
